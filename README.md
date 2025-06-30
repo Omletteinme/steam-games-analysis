@@ -42,9 +42,8 @@ The dataset contains metadata of Steam games including:
 - Publisher
 - Rating & review counts
 
-*Source*: [Mention if scraped, Kaggle, etc.]
+*Source*: Kaggle
 
 ---
 
-## 📂 Folder Structure
 
